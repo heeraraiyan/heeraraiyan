@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github.com/heeraraiyan/heeraraiyan/img/banner.jpg" alt="Your Banner" />
+<img src="https://raw.githubusercontent.com/heeraraiyan/heeraraiyan/main/img/banner.jpg" alt="Your Banner" />
